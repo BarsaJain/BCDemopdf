@@ -1,6 +1,6 @@
 {
   "id": "4a60eb5a-5f36-4c7a-8132-2c8145bc049d",
-  "name": "BCDemopdf",
+  "name": "GIT for beginners",
   "publisher": "BC Demo pdf",
   "version": "1.0.0.0",
   "brief": "",
@@ -16,8 +16,8 @@
   "application": "17.0.0.0",
   "idRanges": [
     {
-      "from": 50100,
-      "to": 50149
+      "from": 52100,
+      "to": 55149
     }
   ],
   "showMyCode": true,
