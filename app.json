@@ -1,0 +1,25 @@
+{
+  "id": "4a60eb5a-5f36-4c7a-8132-2c8145bc049d",
+  "name": "BCDemopdf",
+  "publisher": "BC Demo pdf",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.0"
+}
